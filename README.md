@@ -2,7 +2,7 @@
 ---
 ## Apresentação: 
 
-Ao concluir o estudos das teorias e suas principais ferramentas, decidir começar a colocar a mão na masa e começar a desenvolver projetos em Ciência/Analise de dados para colocar meu conhecimento adquirido ao de quase 1 ano de estudo, em prática. Para meu primeiro projeto decidir abordar um dos principais assuntos, que apresentou uma crescente de alguns anos até a data de produção deste ánalise, os investimentos. Este projeto consiste em analisar as principais empresas presentes na B3, analisando as por trimestres e com os respectivos resultados, formalizando uma carteira de investimentos.
+Ao concluir o estudos das teorias e suas principais ferramentas, decidir começar a colocar a mão na massa e começar a desenvolver projetos em Ciência/Analise de dados para colocar meu conhecimento adquirido ao de quase 1 ano de estudo, em prática. Para meu primeiro projeto decidir abordar um dos principais assuntos, que apresentou uma crescente de alguns anos até a data de produção deste ánalise, os investimentos. Este projeto consiste em analisar as principais empresas presentes na B3, analisando as por trimestres e com os respectivos resultados, formalizando uma carteira de investimentos.
 
 Deixo os créditos ao grupo [Hastag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg), a qual forneceram suporte para a realização deste projeto.
 
